@@ -1,4 +1,4 @@
-# 3D-object-classification
+# 3D-Object-Classification
 Classifying the different objects given the point cloud points.
 
 ## Description:
